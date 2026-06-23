@@ -13,7 +13,7 @@ body{
 
     background:linear-gradient(
         135deg,
-        #814f0e,
+        #0c7d99,
         #e5e5e9
     );
 
@@ -31,7 +31,7 @@ body{
     border-radius:25px;
 
     box-shadow:
-    0 15px 40px rgba(238, 174, 0, 0.795);
+    0 15px 40px rgba(20, 97, 121, 0.658);
 
     animation:fadeIn .8s ease;
 }
@@ -54,7 +54,7 @@ body{
 }
 
 h1{
-    color:#c5a024;
+    color:#118686;
     margin-bottom:10px;
 }
 
@@ -72,7 +72,7 @@ h1{
 .btn{
     text-decoration:none;
 
-    background:#cea92f;
+    background:#056468;
     color:white;
 
     padding:16px;
@@ -87,7 +87,7 @@ h1{
 }
 
 .btn:hover{
-    background:#967e31;
+    background:#0c3564;
 
     transform:translateY(-3px);
 
